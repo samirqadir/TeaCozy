@@ -82,13 +82,13 @@ body {
   align-items: center;
 }
 
-.images img {
+.images div img {
   height: 200px;
   width: 300px;
   margin: 25px 25px 10px 25px;
 }
 
-.images h4 {
+.images div h4 {
   margin: 0px;
   padding: 0px;
 }
